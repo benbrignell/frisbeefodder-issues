@@ -13,6 +13,7 @@ I'm writing and article on how I went about building a responsive web comic fram
 * Sass
 * Foundation (Grid)
 * Adobe Illustrator
+* SVG
 * svgo
 * GitHub Pages
 
