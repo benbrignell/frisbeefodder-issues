@@ -14,3 +14,8 @@ I'm writing and article on how I went about building a responsive web comic fram
 * Foundation (Grid)
 * Adobe Illustrator
 * svgo
+* GitHub Pages
+
+Very few beautiful webcomics work well on multiple devices. Once I have finished a few things I'm planning on open sourcing this for others to use as a starting point.
+
+If you're interested in using it [let me know on Twitter](http://twitter.com/benbrignell)
