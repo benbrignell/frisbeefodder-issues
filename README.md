@@ -15,8 +15,8 @@ I'm writing and article on how I went about building a responsive web comic fram
 * Adobe Illustrator
 * SVG
 * svgo
-* GitHub Pages
+* GitHub/Pages
 
-For a number of reasons, very few beautiful webcomics work well on multiple devices. Once I have finished a few things I'm planning on open sourcing this for others to use as a starting point and hopefully make it easier.
+For a number of reasons, very few beautiful webcomics work well on multiple devices. Most webcomics are designed as images and not URLs. Once I have finished a few things I'm planning on open sourcing this for others to use as a starting point and hopefully make it easier.
 
 If you're interested in using it [let me know on Twitter](http://twitter.com/benbrignell)
