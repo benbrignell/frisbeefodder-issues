@@ -9,13 +9,13 @@ If you come across any bugs or problems [add an issue](https://github.com/benbri
 ## Tools used to create Frisbee Fodder
 I'm writing and article on how I went about building a responsive web comic framework and making something that allowed me to focus on creating and drawing the comics rather than tweaking text and css positions for every episode. For the time being, below is a list of tools that I have used to create it.
 
-* Jekyll
-* Sass
-* Foundation (Grid)
-* Adobe Illustrator
-* SVG
-* svgo
-* GitHub/Pages
+* [Jekyll](http://http://jekyllrb.com/)
+* [Sass](http://sass-lang.com/)
+* [Foundation (grid)](http://foundation.zurb.com/grid.html)
+* [Adobe Illustrator](http://www.adobe.com/uk/products/illustrator.html)
+* [SVG](http://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
+* [svgo](https://github.com/svg/svgo)
+* [GitHub/Pages](https://pages.github.com/)
 
 Very few beautiful webcomics work well on multiple devices. Most webcomics are designed as images and not URLs. Once I have finished a few things I'm planning on open sourcing this for others to use as a starting point and hopefully make it easier.
 
